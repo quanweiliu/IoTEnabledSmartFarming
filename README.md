@@ -1,4 +1,4 @@
 # IoTEnabledSmartFarming
 
 
-LoT for pest detection and weed detection.
+IoT for pest detection and weed detection.
